@@ -1,0 +1,14 @@
+# Component information
+name: ****
+description: ****
+copyright: ???? EUMETSAT
+license_spdx: ****
+date: ****
+ 
+# Package IPR documentation
+license_text_file: ****
+ 
+# File(s) associated to this component
+about_resource: resource 1
+about_resource: resource 2
+about_resource: resource 3
