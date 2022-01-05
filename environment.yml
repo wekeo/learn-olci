@@ -1,0 +1,5 @@
+name: olci
+channels:
+  - conda-forge
+dependencies:
+  - notebook=6.4.6
