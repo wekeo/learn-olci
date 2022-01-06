@@ -1,10 +1,10 @@
-# PACKAGE NAME
+# Learn OLCI
 
-DESCRIPTION
+**learn_olci**
 
 ## License
  
-This code is licensed under an **** license. See file ****.txt for details on the usage and distribution terms. No dependencies are distributed as part of this package.
+This code is licensed under an MIT license. See file LICENCE_MITtxt for details on the usage and distribution terms. No dependencies are distributed as part of this package.
 
 All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only
 
@@ -19,7 +19,7 @@ Please see the AUTHORS.txt file for more information.
 PREREQS
 
 ## Dependencies
-package, version, licence (licence tezt file), copyright, info: package_link
+package, version, licence (licence text file), copyright, info: package_link
 
 ## Installing eumidas
 

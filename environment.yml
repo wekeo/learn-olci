@@ -1,4 +1,4 @@
-name: olci
+name: cmts_learn_olci
 channels:
   - conda-forge
 dependencies:
