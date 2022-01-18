@@ -1,5 +1,14 @@
 name: cmts_learn_olci
 channels:
   - conda-forge
+  - cmts
 dependencies:
   - notebook=6.4.6
+  - eumdac
+  - hda
+  - xarray
+  - netcdf4
+  - shapely
+  - matplotlib
+  - cartopy
+  - jupyter_contrib_nbextensions

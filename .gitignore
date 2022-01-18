@@ -25,9 +25,15 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# General data and images
+# Large data
 *.nc
 *.zip
 
 # OSx junk
 *DS_Store*
+
+# Repo specific
+1_OLCI_introductory/products/
+1_OLCI_introductory/*.png
+2_OLCI_advanced/products/
+2_OLCI_advanced/*.png
