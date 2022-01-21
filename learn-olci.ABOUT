@@ -6,7 +6,7 @@ license_spdx: MIT
 date: 01-01-2022
  
 # Package IPR documentation
-license_text_file: LICENCE_MIT.txt
+license_text_file: LICENCE.txt
  
 # File(s) associated to this component
 about_resource: resource 1
