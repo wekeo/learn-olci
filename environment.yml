@@ -3,14 +3,14 @@ channels:
   - conda-forge
   - cmts
 dependencies:
-  - python=3.8
-  - notebook
-  - eumdac
-  - hda
-  - xarray
-  - netcdf4
-  - shapely
-  - matplotlib
-  - cartopy
-  - jupyter_contrib_nbextensions
-  - eumartools
+  - conda-forge::python=3.9
+  - conda-forge::notebook
+  - conda-forge::xarray
+  - conda-forge::netcdf4
+  - conda-forge::shapely
+  - conda-forge::matplotlib
+  - conda-forge::cartopy
+  - conda-forge::jupyter_contrib_nbextensions
+  - cmts::hda
+  - cmts::eumartools
+#  - eumdac
