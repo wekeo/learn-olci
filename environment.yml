@@ -3,7 +3,8 @@ channels:
   - conda-forge
   - cmts
 dependencies:
-  - notebook=6.4.6
+  - python=3.8
+  - notebook
   - eumdac
   - hda
   - xarray
@@ -12,3 +13,4 @@ dependencies:
   - matplotlib
   - cartopy
   - jupyter_contrib_nbextensions
+  - eumartools
