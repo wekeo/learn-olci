@@ -1,3 +1,7 @@
+# badges currently untested
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/eumetlab%2Focean%2Fsensors%2Flearn-olci.git/main)
+
 # Learn OLCI
 
 **learn_olci**
