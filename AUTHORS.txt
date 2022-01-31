@@ -9,5 +9,9 @@ Vittorio Brando (CNR)
 Vinca Rosmorduc (CLS)
 Ana Ruescas (Brockmann Consult)
 
+# List of contributory authors
+Lauren Biermann (PML)
+Ollie Clements (PML)
+
 # Support
 For all queries on this software package, please contact ops@eumetsat.int
