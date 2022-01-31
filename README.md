@@ -1,6 +1,6 @@
 # badges currently untested
 
-[![TrainHub](https://img.shields.io/badge/Open in-TrainHub-.svg)](https://trainhub.eumetsat.int/ocean/sensors)
+[![TrainHub](https://img.shields.io/badge/Launch-TrainHub-.svg)](https://trainhub.eumetsat.int/ocean/sensors)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/eumetlab%2Focean%2Fsensors%2Flearn-olci/main)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/eumetlab/ocean/sensors/learn-olci/blob/main)
 [![Open in Planetary Computer](https://img.shields.io/badge/Open-Planetary%20Computer-black?style=flat&logo=microsoft)](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/git-pull?repo=https://github.com/eumetlab/ocean/sensors/learn-olci&branch=main) << Pending account
