@@ -33,8 +33,8 @@ wheels/
 *DS_Store*
 
 # simlinks
-frameworks/
-working-with-python/
+frameworks
+working-with-python
 
 # Repo specific
 1_OLCI_introductory/products/
