@@ -20,7 +20,7 @@ All product names, logos, and brands are property of their respective owners. Al
 Please see the AUTHORS.txt file for more information.
 
 ## Prerequisites
- 
+
 PREREQS
 
 ## Dependencies
@@ -32,4 +32,7 @@ INSTALLATION NOTES
 
 ## Usage
 
-USAGE NOTES
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable exercise2/main
+
+Turn on extensions
