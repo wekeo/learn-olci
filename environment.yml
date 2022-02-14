@@ -2,7 +2,6 @@ name: cmts_learn_olci
 channels:
   - conda-forge
   - cmts
-  #- pyviz
 dependencies:
   - conda-forge::python=3.8
   - conda-forge::notebook
@@ -15,9 +14,8 @@ dependencies:
   - conda-forge::jupyter_contrib_nbextensions
   - conda-forge::ipywidgets
   - conda-forge::scikit-image
-  #- conda-forge::datashader  
+  - conda-forge::plotly
+  - conda-forge::bokeh
   - cmts::hda
   - cmts::eumartools
-  #- pyviz::bokeh
-  #- pyviz::holoviews
   #- eumdac
