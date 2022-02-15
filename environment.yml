@@ -17,3 +17,4 @@ dependencies:
   - conda-forge::bokeh
   - cmts::hda
   - cmts::eumartools
+  - cmts::eumdac
