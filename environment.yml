@@ -16,6 +16,7 @@ dependencies:
   - conda-forge::plotly
   - conda-forge::bokeh
   - conda-forge::ipykernel
+  - conda-forge::cmocean
   - cmts::hda
   - cmts::eumartools
   - cmts::eumdac
