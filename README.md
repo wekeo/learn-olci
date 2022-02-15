@@ -5,15 +5,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/eumetlab/ocean/sensors/learn-olci/blob/main)
 [![Open in Planetary Computer](https://img.shields.io/badge/Open-Planetary%20Computer-black?style=flat&logo=microsoft)](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/git-pull?repo=https://github.com/eumetlab/ocean/sensors/learn-olci&branch=main)
 
-**learn-olci** is a repository of Jupyter-Notebook based learning material that
-focusses on the specifics of the Sentinel-3 OLCI sensor, its Level-1B and Level-2
-products and how to use them. The notebooks are suitable for beginners to ocean
-colour remote sensing, as well as intermediate level users that have experience
-in ocean colour or of other remote sensing approaches. Some knowledge of Python 
-is required to use this material. For any questions about this repository, please
-contact ops@eumetsat.int. 
+The **learn-olci** module consists of a collection of python-based Jupyter-notebooks 
+design to demonstrate the capability of the Ocean and Land Colour Instrument (OLCI), 
+carried by the Sentinel-3 satellites, and to help users begin to work with its data 
+at level-1B and level-2. 
 
-This repository can be launched in TrainHub WEkEO, Binder, colab
+For any questions about this repository, please contact ops@eumetsat.int.
+This repository can be launched in TrainHub WEkEO, Binder, colab ...FINALIZE!
 
 ## License
  
