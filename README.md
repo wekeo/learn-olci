@@ -173,4 +173,4 @@ at ops@eumetsat.int.
 
 **Run**
 
-`jupyter notebook`
+`jupyter notebook` or `jupyter-notebook`
