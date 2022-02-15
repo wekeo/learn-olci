@@ -40,19 +40,19 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 
 ## Dependencies
 
-xarray,                       0.21.1, Apache-2.0, https://anaconda.org/conda-forge/xarray
-netcdf4,                      1.5.8,  MIT,        https://anaconda.org/conda-forge/netcdf4
-shapely,                      1.8.0,  BSD-3,      https://anaconda.org/conda-forge/shapely
-matplotlib,                   3.5.1,  PSFL,       https://matplotlib.org/stable/users/project/license.html    
-cartopy,                      0.20.2, LGPL-3,     https://anaconda.org/conda-forge/cartopy
-notebook,                     6.4.8,  BSD-3,      https://anaconda.org/conda-forge/notebook
-jupyter_contrib_nbextensions, 0.5.1,  BSD-3,      https://anaconda.org/conda-forge/jupyter_contrib_nbextensions
-ipywidgets,                   7.6.5,  BSD-3,      https://anaconda.org/conda-forge/ipywidgets
-scikit-image,                 0.19.1, BSD-3,      https://anaconda.org/conda-forge/scikit-image
-plotly,                       5.6.0,  MIT,        https://anaconda.org/conda-forge/plotly
-bokeh,                        2.4.2,  BSD-3,      https://anaconda.org/conda-forge/bokeh        
-hda,                          0.2.2,  Apache-2.0, https://pypi.org/project/hda/
-eumartools,                   0.0.1,  MIT,        https://anaconda.org/cmts/eumartools
+xarray,                       0.21.1, Apache-2.0, https://anaconda.org/conda-forge/xarray \
+netcdf4,                      1.5.8,  MIT,        https://anaconda.org/conda-forge/netcdf4 \
+shapely,                      1.8.0,  BSD-3,      https://anaconda.org/conda-forge/shapely \
+matplotlib,                   3.5.1,  PSFL,       https://matplotlib.org/stable/users/project/license.html \
+cartopy,                      0.20.2, LGPL-3,     https://anaconda.org/conda-forge/cartopy \
+notebook,                     6.4.8,  BSD-3,      https://anaconda.org/conda-forge/notebook \
+jupyter_contrib_nbextensions, 0.5.1,  BSD-3,      https://anaconda.org/conda-forge/jupyter_contrib_nbextensions \
+ipywidgets,                   7.6.5,  BSD-3,      https://anaconda.org/conda-forge/ipywidgets \
+scikit-image,                 0.19.1, BSD-3,      https://anaconda.org/conda-forge/scikit-image \
+plotly,                       5.6.0,  MIT,        https://anaconda.org/conda-forge/plotly \
+bokeh,                        2.4.2,  BSD-3,      https://anaconda.org/conda-forge/bokeh \
+hda,                          0.2.2,  Apache-2.0, https://pypi.org/project/hda/ \
+eumartools,                   0.0.1,  MIT,        https://anaconda.org/cmts/eumartools \
 eumdac,                       1.0.0,  MIT,        https://pypi.org/project/eumdac/
   
 ## Installation
@@ -125,7 +125,7 @@ the correct environment. Again, navigate to the repository folder.
 If you are running this code for the first time in this environment, you need to enable two
 `extensions` to Jupyter by running the following commands.
 
-`jupyter nbextension enable --py widgetsnbextension`
+`jupyter nbextension enable --py widgetsnbextension` \
 `jupyter nbextension enable exercise2/main`
 
 *Note: you can also enable these in the **Nbextensions** tab of the Jupyter browser window* 
@@ -146,20 +146,20 @@ Now you can run the notebooks!
 
 ### TL;DR for advanced users
 
-#### Installation:
+**Installation:**
 
 `git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci`
 
-#### Create and set environment
+**Create and set environment**
 
-`conda env create -f environment.yml`
+`conda env create -f environment.yml` \
 `conda activate cmts_learn_olci`
 
-#### Activate extensions (1st run in environment, only)
+**Activate extensions (1st run in environment, only)**
 
-`jupyter nbextension enable --py widgetsnbextension`
+`jupyter nbextension enable --py widgetsnbextension` \
 `jupyter nbextension enable exercise2/main`
 
-#### Run
+**Run**
 
 `jupyter notebook`
