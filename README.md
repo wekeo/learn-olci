@@ -55,6 +55,8 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |hda|0.2.2|Apache-2.0|https://pypi.org/project/hda/|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
 |eumdac|1.0.0|MIT|https://pypi.org/project/eumdac/|
+|ipykernel| |BSD-3|https://anaconda.org/conda-forge/ipykernel
+
   
 ## Installation
 
@@ -165,6 +167,9 @@ at ops@eumetsat.int.
 
 `conda env create -f environment.yml` \
 `conda activate cmts_learn_olci`
+
+** WEkEO SPECIFIC:
+`ipython kernel install --user --name=cmts`
 
 **Activate extensions (1st run in environment, only)**
 
