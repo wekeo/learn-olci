@@ -140,7 +140,7 @@ so, if required.
 tree, and you will unable to navigate to these. So make sure you run the line above 
 from the correct directory!*
 
-Now you can run the notebooks!
+Now you can run the notebooks! We recommend you start with the [Index module](./Index.ipynb).
 
 ### Collaborating, contributing and issues
 
