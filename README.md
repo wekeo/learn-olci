@@ -15,8 +15,6 @@ contact ops@eumetsat.int.
 
 This repository can be launched in TrainHub WEkEO, Binder, colab
 
-<hr>
-
 ## License
  
 This code is licensed under an MIT license. See file LICENCE.txt for details on 
@@ -27,8 +25,6 @@ All product names, logos, and brands are property of their respective owners.
 All company, product and service names used in this website are for identification 
 purposes only.
 
-<hr>
-
 ## Authors
 
 * [**Ben Loveday**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
@@ -36,15 +32,11 @@ purposes only.
 
 Please see the AUTHORS.txt file for more information on contributors.
 
-<hr>
-
 ## Prerequisites
 
 You will require `Jupyter Notebook` to run this code. We recommend that you install 
 the latest [Anaconda Python distribution]((https://www.anaconda.com/) for your 
 operating system. Anaconda Python distributions include Jupyter Notebook.
-
-<hr>
 
 ## Dependencies
 
@@ -62,9 +54,7 @@ bokeh,                        2.4.2,  BSD-3,      https://anaconda.org/conda-for
 hda,                          0.2.2,  Apache-2.0, https://pypi.org/project/hda/ \
 eumartools,                   0.0.1,  MIT,        https://anaconda.org/cmts/eumartools \
 eumdac,                       1.0.0,  MIT,        https://pypi.org/project/eumdac/
-
-<hr>
-
+  
 ## Installation
 
 The simplest and best way to install these packages is via Git. Users can clone this 
@@ -85,8 +75,6 @@ This will make a local copy of all the relevant files.
 *Note: If you find that you are missing packages, you should check that you ran 
 `git clone` with both the `--recurse-submodules` and `--remote-submodules` options.*
 
-<hr>
-
 ## Usage
 
 This collection supports Python 3.8. Although many options are possible, the 
@@ -94,8 +82,6 @@ authors highly recommend that users install the appropriate Anaconda package
 for their operating system. In order to ensure that you have all the required 
 dependencies, we recommend that you build a suitable Python environment, as 
 discussed below.
-
-<hr>
 
 ### Python environments
 
@@ -124,8 +110,6 @@ Now you are ready to go!
 
 *Note: remember that you may need to reactivate the environment in every 
 new window instance*
-
-<hr>
 
 ### Running Jupyter Notebook
 
@@ -160,8 +144,6 @@ from the correct directory!*
 
 Now you can run the notebooks!
 
-<hr>
-
 ### Collaborating, contributing and issues
 
 If you would like to collaborate on a part of this code base or contribute to it 
@@ -169,6 +151,7 @@ please contact us on copernicus.training@eumetsat.int. If you are have issues an
 need help, or you have found something that doesn't work, then please contact us 
 at ops@eumetsat.int.
 
+<hr>
 <hr>
 
 ### TL;DR for advanced users
