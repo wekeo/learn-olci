@@ -37,6 +37,7 @@ the latest [Anaconda Python distribution]((https://www.anaconda.com/) for your
 operating system. Anaconda Python distributions include Jupyter Notebook.
 
 ## Dependencies
+
 |item|version|licence|package info|
 |---|---|---|---|
 |xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
@@ -53,9 +54,9 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |hda|0.2.2|Apache-2.0|https://pypi.org/project/hda/|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
 |eumdac|1.0.0|MIT|https://pypi.org/project/eumdac/|
-|ipykernel| |BSD-3|https://anaconda.org/conda-forge/ipykernel
+|ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
+|cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
 
-  
 ## Installation
 
 The simplest and best way to install these packages is via Git. Users can clone this 
