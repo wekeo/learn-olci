@@ -9,6 +9,26 @@ date: 01-01-2022
 license_text_file: LICENCE.txt
  
 # File(s) associated to this component
-about_resource: resource 1
-about_resource: resource 2
-about_resource: resource 3
+
+about_resource: ./1_OLCI_introductory/1_1_OLCI_data_access.ipynb
+about_resource: ./1_OLCI_introductory/1_2_OLCI_file_structure.ipynb
+about_resource: ./1_OLCI_introductory/1_3_OLCI_coverage.ipynb
+about_resource: ./1_OLCI_introductory/1_4_OLCI_bands_RGB.ipynb
+about_resource: ./1_OLCI_introductory/1_5_OLCI_radiance_reflectance_spectra.ipynb
+about_resource: ./1_OLCI_introductory/1_6_OLCI_CHL_comparison.ipynb
+about_resource: ./1_OLCI_introductory/1_7_OLCI_light_environment.ipynb
+about_resource: ./2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
+about_resource: ./2_OLCI_advanced/2_2_OLCI_advanced_data_access_hda.ipynb
+about_resource: ./img/S3_spectral_1200.png
+about_resource: ./img/WEkEO_show_api.jpg
+about_resource: ./img/thumbs/1_3_OLCI_coverage.png
+about_resource: ./img/thumbs/1_4_OLCI_RGB.png
+about_resource: ./img/thumbs/1_5_OLCI_spectra.png
+about_resource: ./img/thumbs/1_6_OLCI_CHL.png
+about_resource: Index.ipynb
+about_resource: OLCI_overview.ipynb
+about_resource: learn-olci.ABOUT
+about_resource: environment.yml
+about_resource: README.md
+about_resource: AUTHORS.txt
+about_resource: learn-olci.ABOUT

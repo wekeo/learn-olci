@@ -10,7 +10,6 @@ dependencies:
   - conda-forge::shapely
   - conda-forge::matplotlib
   - conda-forge::cartopy
-  - conda-forge::jupyter
   - conda-forge::jupyter_contrib_nbextensions
   - conda-forge::ipywidgets
   - conda-forge::scikit-image
@@ -18,4 +17,3 @@ dependencies:
   - conda-forge::bokeh
   - cmts::hda
   - cmts::eumartools
-  #- eumdac

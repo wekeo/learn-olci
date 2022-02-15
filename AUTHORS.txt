@@ -4,12 +4,12 @@ EUMETSAT
 # List of development authors
 Ben Loveday (Innoflair UG)
 Hayley Evers-King (EUMETSAT)
+
+# List of contributory authors
 Aida Alvera-Azcarate (GHER)
 Vittorio Brando (CNR)
 Vinca Rosmorduc (CLS)
 Ana Ruescas (Brockmann Consult)
-
-# List of contributory authors
 Lauren Biermann (PML)
 Ollie Clements (PML)
 
