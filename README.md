@@ -114,11 +114,8 @@ new window instance*
 
 ### Running Jupyter Notebook
 
-These modules are based on [Jupyter notebooks](https://jupyter.org/). Jupyter allows 
-a high-level of interactive learning, as it brings code, text description and 
-visualisations into one place. If you have not worked with `Jupyter Notebooks` 
-before, we recommend you start with the [Introduction to Python and Project Jupyter](./working-with-python/Intro_to_Python_and_Jupyter.ipynb) module to get a short introduction to 
-their usage and benefits.
+This module is based around a series of [Jupyter Notebooks](https://jupyter.org/). These support high-level interactive learning by allowing us to combine code, text description and data visualisations. If you have not worked with `Jupyter Notebooks` 
+before, please look at the [Introduction to Python and Project Jupyter](./working-with-python/Intro_to_Python_and_Jupyter.ipynb) module to get a short introduction to their usage and benefits.
 
 To to run Jupyter Notebook, open a terminal or Anaconda prompt and make sure you have activated 
 the correct environment. Again, navigate to the repository folder.
