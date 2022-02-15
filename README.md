@@ -5,15 +5,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/eumetlab/ocean/sensors/learn-olci/blob/main)
 [![Open in Planetary Computer](https://img.shields.io/badge/Open-Planetary%20Computer-black?style=flat&logo=microsoft)](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/git-pull?repo=https://github.com/eumetlab/ocean/sensors/learn-olci&branch=main)
 
-**learn-olci** is a repository of Jupyter-Notebook based learning material that
-focusses on the specifics of the Sentinel-3 OLCI sensor, its Level-1B and Level-2
-products and how to use them. The notebooks are suitable for beginners to ocean
-colour remote sensing, as well as intermediate level users that have experience
-in ocean colour or of other remote sensing approaches. Some knowledge of Python 
-is required to use this material. For any questions about this repository, please
-contact ops@eumetsat.int. 
+The **learn-olci** module consists of a collection of python-based Jupyter-notebooks 
+design to demonstrate the capability of the Ocean and Land Colour Instrument (OLCI), 
+carried by the Sentinel-3 satellites, and to help users begin to work with its data 
+at level-1B and level-2. 
 
-This repository can be launched in TrainHub WEkEO, Binder, colab
+For any questions about this repository, please contact ops@eumetsat.int.
+This repository can be launched in TrainHub WEkEO, Binder, colab ...FINALIZE!
 
 ## License
  
@@ -55,6 +53,8 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |hda|0.2.2|Apache-2.0|https://pypi.org/project/hda/|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
 |eumdac|1.0.0|MIT|https://pypi.org/project/eumdac/|
+|ipykernel| |BSD-3|https://anaconda.org/conda-forge/ipykernel
+
   
 ## Installation
 
@@ -114,11 +114,8 @@ new window instance*
 
 ### Running Jupyter Notebook
 
-These modules are based on [Jupyter notebooks](https://jupyter.org/). Jupyter allows 
-a high-level of interactive learning, as it brings code, text description and 
-visualisations into one place. If you have not worked with `Jupyter Notebooks` 
-before, we recommend you start with the [Introduction to Python and Project Jupyter](./working-with-python/Intro_to_Python_and_Jupyter.ipynb) module to get a short introduction to 
-their usage and benefits.
+This module is based around a series of [Jupyter Notebooks](https://jupyter.org/). These support high-level interactive learning by allowing us to combine code, text description and data visualisations. If you have not worked with `Jupyter Notebooks` 
+before, please look at the [Introduction to Python and Project Jupyter](./working-with-python/Intro_to_Python_and_Jupyter.ipynb) module to get a short introduction to their usage and benefits.
 
 To to run Jupyter Notebook, open a terminal or Anaconda prompt and make sure you have activated 
 the correct environment. Again, navigate to the repository folder.
@@ -143,7 +140,7 @@ so, if required.
 tree, and you will unable to navigate to these. So make sure you run the line above 
 from the correct directory!*
 
-Now you can run the notebooks!
+Now you can run the notebooks! We recommend you start with the [Index](./Index.ipynb) module.
 
 ### Collaborating, contributing and issues
 
@@ -165,6 +162,9 @@ at ops@eumetsat.int.
 
 `conda env create -f environment.yml` \
 `conda activate cmts_learn_olci`
+
+** WEkEO SPECIFIC:
+`ipython kernel install --user --name=cmts`
 
 **Activate extensions (1st run in environment, only)**
 

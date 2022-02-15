@@ -15,6 +15,7 @@ dependencies:
   - conda-forge::scikit-image
   - conda-forge::plotly
   - conda-forge::bokeh
+  - conda-forge::ipykernel
   - cmts::hda
   - cmts::eumartools
   - cmts::eumdac
