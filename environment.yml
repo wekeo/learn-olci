@@ -2,6 +2,7 @@ name: cmts_learn_olci
 channels:
   - conda-forge
   - cmts
+  - eumetsat
 dependencies:
   - conda-forge::python=3.8
   - conda-forge::notebook
@@ -19,4 +20,4 @@ dependencies:
   - conda-forge::cmocean
   - cmts::hda
   - cmts::eumartools
-  - cmts::eumdac
+  - eumetsat::eumdac
