@@ -19,8 +19,8 @@ about_resource: ./1_OLCI_introductory/1_6_OLCI_CHL_comparison.ipynb
 about_resource: ./1_OLCI_introductory/1_7_OLCI_light_environment.ipynb
 about_resource: ./2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
 about_resource: ./2_OLCI_advanced/2_2_OLCI_advanced_data_access_hda.ipynb
-about_resource: ./img/S3_spectral_1200.png
-about_resource: ./img/WEkEO_show_api.jpg
+about_resource: ./img/OLCI_spectral_1200.png
+about_resource: ./img/WEkEO_show_api.png
 about_resource: ./img/thumbs/1_3_OLCI_coverage_thumb.png
 about_resource: ./img/thumbs/1_4_OLCI_RGB_thumb.png
 about_resource: ./img/thumbs/1_5_OLCI_spectra_thumb.png

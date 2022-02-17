@@ -11,7 +11,8 @@ carried by the Sentinel-3 satellites, and to help users begin to work with its d
 at level-1B and level-2. 
 
 For any questions about this repository, please contact ops@eumetsat.int.
-This repository can be launched in TrainHub WEkEO, Binder, colab ...FINALIZE!
+
+This repository can be launched in TrainHub WEkEO, Binder, colab ...TO BE FINALIZED!
 
 ## License
  
@@ -56,6 +57,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |eumdac|1.0.0|MIT|https://pypi.org/project/eumdac/|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
+|eumdac|1.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
 
 ## Installation
 
