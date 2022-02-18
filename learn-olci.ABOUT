@@ -13,7 +13,7 @@ license_text_file: LICENCE.txt
 about_resource: ./1_OLCI_introductory/1_1_OLCI_data_access.ipynb
 about_resource: ./1_OLCI_introductory/1_2_OLCI_file_structure.ipynb
 about_resource: ./1_OLCI_introductory/1_3_OLCI_coverage.ipynb
-about_resource: ./1_OLCI_introductory/1_4_OLCI_bands_RGB.ipynb
+about_resource: ./1_OLCI_introductory/1_4_OLCI_bands_imagery.ipynb
 about_resource: ./1_OLCI_introductory/1_5_OLCI_radiance_reflectance_spectra.ipynb
 about_resource: ./1_OLCI_introductory/1_6_OLCI_CHL_comparison.ipynb
 about_resource: ./1_OLCI_introductory/1_7_OLCI_light_environment.ipynb
