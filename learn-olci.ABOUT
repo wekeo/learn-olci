@@ -22,10 +22,10 @@ about_resource: ./2_OLCI_advanced/2_2_OLCI_advanced_data_access_hda.ipynb
 about_resource: ./img/OLCI_spectral_1200.png
 about_resource: ./img/WEkEO_show_api.png
 about_resource: ./img/thumbs/1_3_OLCI_coverage_thumb.png
-about_resource: ./img/thumbs/1_4_OLCI_RGB_thumb.png
-about_resource: ./img/thumbs/1_5_OLCI_spectra_thumb.png
-about_resource: ./img/thumbs/1_6_OLCI_CHL_thumb.png
-about_resource: ./img/thumbs/1_7_OLCI_KD490_thumb.png
+about_resource: ./img/thumbs/1_4_OLCI_bands_imagery_thumb.png
+about_resource: ./img/thumbs/1_5_OLCI_radiance_reflectance_spectra_thumb.png
+about_resource: ./img/thumbs/1_6_OLCI_CHL_comparison_thumb.png
+about_resource: ./img/thumbs/1_7_OLCI_light_environment_thumb.png
 about_resource: Index.ipynb
 about_resource: learn-olci.ABOUT
 about_resource: environment.yml
