@@ -28,7 +28,7 @@ about_resource: ./img/thumbs/1_6_OLCI_CHL_comparison_thumb.png
 about_resource: ./img/thumbs/1_7_OLCI_light_environment_thumb.png
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
-about_resource: LICENCE.txt
+about_resource: LICENSE.txt
 about_resource: README.md
 about_resource: environment.yml
 about_resource: learn-olci.ABOUT

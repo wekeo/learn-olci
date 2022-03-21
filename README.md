@@ -9,7 +9,7 @@ For any questions about this repository, please contact ops@eumetsat.int.
 
 ## License
  
-This code is licensed under an MIT license. See file LICENCE.txt for details on 
+This code is licensed under an MIT license. See file LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of this 
 package. Copyright EUMETSAT 2022.
 

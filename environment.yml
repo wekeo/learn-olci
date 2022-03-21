@@ -1,5 +1,5 @@
 # copyright: 2022 EUMETSAT
-# license: LICENCE.txt
+# license: LICENSE.txt
 name: cmts_learn_olci
 channels:
   - conda-forge
