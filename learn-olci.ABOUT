@@ -1,9 +1,9 @@
 # Component information
-name: learn_olci
+name: learn-olci
 description: Compendium of training content associated with the Copernicus Sentinel-3 OLCI sensor in the marine domain.
 copyright: 2022 EUMETSAT
 license_spdx: MIT
-date: 01-01-2022
+date: 01-03-2022
  
 # Package IPR documentation
 license_text_file: LICENCE.txt
@@ -26,8 +26,9 @@ about_resource: ./img/thumbs/1_4_OLCI_bands_imagery_thumb.png
 about_resource: ./img/thumbs/1_5_OLCI_radiance_reflectance_spectra_thumb.png
 about_resource: ./img/thumbs/1_6_OLCI_CHL_comparison_thumb.png
 about_resource: ./img/thumbs/1_7_OLCI_light_environment_thumb.png
-about_resource: Index.ipynb
-about_resource: learn-olci.ABOUT
-about_resource: environment.yml
-about_resource: README.md
 about_resource: AUTHORS.txt
+about_resource: Index.ipynb
+about_resource: LICENCE.txt
+about_resource: README.md
+about_resource: environment.yml
+about_resource: learn-olci.ABOUT
