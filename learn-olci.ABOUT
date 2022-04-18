@@ -4,6 +4,7 @@ description: Compendium of training content associated with the Copernicus Senti
 copyright: 2022 EUMETSAT
 license_spdx: MIT
 date: 01-03-2022
+home_url: https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci
  
 # Package IPR documentation
 license_text_file: LICENSE.txt

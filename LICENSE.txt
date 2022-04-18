@@ -1,5 +1,5 @@
 Unless otherwise specified, the contents of this repository are distributed 
-by EUMETSAT under an MIT License, with Copyright (c) 2021 EUMETSAT.
+by EUMETSAT under an MIT License, with Copyright (c) 2022 EUMETSAT.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
