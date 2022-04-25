@@ -11,7 +11,8 @@ license_text_file: LICENSE.txt
  
 # File(s) associated to this component
 
-about_resource: ./1_OLCI_introductory/1_1_OLCI_data_access.ipynb
+about_resource: ./1_OLCI_introductory/1_1a_OLCI_data_access_Data_Store.ipynb
+about_resource: ./1_OLCI_introductory/1_1b_OLCI_data_access_HDA.ipynb
 about_resource: ./1_OLCI_introductory/1_2_OLCI_file_structure.ipynb
 about_resource: ./1_OLCI_introductory/1_3_OLCI_coverage.ipynb
 about_resource: ./1_OLCI_introductory/1_4_OLCI_bands_imagery.ipynb
@@ -22,6 +23,9 @@ about_resource: ./2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
 about_resource: ./2_OLCI_advanced/2_2_OLCI_advanced_data_access_hda.ipynb
 about_resource: ./img/OLCI_spectral_1200.png
 about_resource: ./img/WEkEO_show_api.png
+about_resource: ./img/thumbs/1_1a_OLCI_data_access_Data_Store_thumb.png
+about_resource: ./img/thumbs/1_1b_OLCI_data_access_HDA_thumb.png
+about_resource: ./img/thumbs/1_2_OLCI_file_structure_thumb.png
 about_resource: ./img/thumbs/1_3_OLCI_coverage_thumb.png
 about_resource: ./img/thumbs/1_4_OLCI_bands_imagery_thumb.png
 about_resource: ./img/thumbs/1_5_OLCI_radiance_reflectance_spectra_thumb.png
