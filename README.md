@@ -126,7 +126,7 @@ If you are running this code for the first time in this environment, you need to
 
 Now you can run Jupyter using:
 
-`jupyter notebook`
+`jupyter notebook` or `jupyter-notebook`, depending on your operating system.
 
 This should open Jupyter Notebooks in a browser window. On occasion, Jupyter may not
 be able to open a window and will give you a URL to past in your browser. Please do
@@ -143,12 +143,12 @@ Now you can run the notebooks! We recommend you start with the [Index](./Index.i
 If you would like to collaborate on a part of this code base or contribute to it 
 please contact us on copernicus.training@eumetsat.int. If you are have issues and 
 need help, or you have found something that doesn't work, then please contact us 
-at ops@eumetsat.int.
+at ops@eumetsat.int. We welcome your feedback!
 
 <hr>
 <hr>
 
-### TL;DR for advanced users
+### Overview for advanced users
 
 **Installation:**
 

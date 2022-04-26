@@ -20,7 +20,6 @@ about_resource: ./1_OLCI_introductory/1_5_OLCI_radiance_reflectance_spectra.ipyn
 about_resource: ./1_OLCI_introductory/1_6_OLCI_CHL_comparison.ipynb
 about_resource: ./1_OLCI_introductory/1_7_OLCI_light_environment.ipynb
 about_resource: ./2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
-about_resource: ./2_OLCI_advanced/2_2_OLCI_advanced_data_access_hda.ipynb
 about_resource: ./img/OLCI_spectral_1200.png
 about_resource: ./img/WEkEO_show_api.png
 about_resource: ./img/thumbs/1_1a_OLCI_data_access_Data_Store_thumb.png
@@ -31,6 +30,7 @@ about_resource: ./img/thumbs/1_4_OLCI_bands_imagery_thumb.png
 about_resource: ./img/thumbs/1_5_OLCI_radiance_reflectance_spectra_thumb.png
 about_resource: ./img/thumbs/1_6_OLCI_CHL_comparison_thumb.png
 about_resource: ./img/thumbs/1_7_OLCI_light_environment_thumb.png
+about_resource: ./img/thumbs/2_1_OLCI_advanced_data_access_eumdac_thumb.png
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt
