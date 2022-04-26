@@ -27,7 +27,7 @@ Please see the AUTHORS.txt file for more information on contributors.
 ## Prerequisites
 
 You will require `Jupyter Notebook` to run this code. We recommend that you install 
-the latest [Anaconda Python distribution]((https://www.anaconda.com/) for your 
+the latest [Anaconda Python distribution](https://www.anaconda.com/) for your 
 operating system. Anaconda Python distributions include Jupyter Notebook.
 
 ## Dependencies
