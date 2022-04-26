@@ -160,6 +160,7 @@ at ops@eumetsat.int. We welcome your feedback!
 `conda activate cmts_learn_olci`
 
 **WEkEO SPECIFIC**
+
 `ipython kernel install --user --name=cmts`
 
 **Activate extensions (1st run in environment, only)**
