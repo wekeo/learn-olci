@@ -1,0 +1,8 @@
+"""Module containing package information for setup.py and __init__.py"""
+__title__ = "OCforward"
+__description__ = "Ocean Colour forward model"
+__url__ = "tbd"
+__version__ = "1.0.0"
+__author__ = "Eumetsat, RBINS"
+__author_email__ = "ops@eumetsat.int"
+__license__ = "MIT"
