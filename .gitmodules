@@ -1,8 +1,8 @@
 [submodule "frameworks"]
 	path = frameworks
-	url = https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/tools/frameworks.git
-	branch = main
+	url = https://github.com/wekeo/frameworks.git
+    	branch = main
 [submodule "working-with-python"]
 	path = working-with-python
-	url = https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/tools/working-with-python.git
+	url = https://github.com/wekeo/working-with-python.git
 	branch = main
