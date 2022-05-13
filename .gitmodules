@@ -5,4 +5,4 @@
 [submodule "working-with-python"]
 	path = working-with-python
 	url = https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/tools/working-with-python.git
-    branch = main
+	branch = main
