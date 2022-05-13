@@ -154,7 +154,7 @@ at ops@eumetsat.int. We welcome your feedback!
 
 **Installation:**
 
-`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci`
+`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/sensors/learn-olci.git`
 
 **Create and set environment**
 
@@ -163,7 +163,7 @@ at ops@eumetsat.int. We welcome your feedback!
 
 **WEkEO SPECIFIC**
 
-`ipython kernel install --user --name=cmts`
+`ipython kernel install --user --name=cmts_learn_olci`
 
 **Activate extensions (1st run in environment, only)**
 
