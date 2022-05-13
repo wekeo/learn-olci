@@ -6,7 +6,7 @@ channels:
   - cmts
   - eumetsat
 dependencies:
-  - conda-forge::python=3.8
+  - conda-forge::python=3.9
   - conda-forge::notebook
   - conda-forge::xarray
   - conda-forge::netcdf4
@@ -22,4 +22,4 @@ dependencies:
   - conda-forge::cmocean
   - cmts::hda
   - cmts::eumartools
-  - eumetsat::eumdac
+  - cmts::eumdac
