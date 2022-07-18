@@ -20,7 +20,15 @@ about_resource: ./1_OLCI_introductory/1_5_OLCI_radiance_reflectance_spectra.ipyn
 about_resource: ./1_OLCI_introductory/1_6_OLCI_CHL_comparison.ipynb
 about_resource: ./1_OLCI_introductory/1_7_OLCI_light_environment.ipynb
 about_resource: ./2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
+about_resource: ./2_OLCI_advanced/2_2_acquire_OLCI_time_series.ipynb
+about_resource: ./2_OLCI_advanced/2_3_OLCI_SNAP_batch_processing_C2RCC.ipynb
+about_resource: ./2_OLCI_advanced/2_4_OLCI_ope_rep_time_series.ipynb
+about_resource: ./2_OLCI_advanced/GPT_config_template.xml
 about_resource: ./img/OLCI_spectral_1200.png
+about_resource: ./img/SNAP_graph_XML.png
+about_resource: ./img/SNAP_graphbuilder.png
+about_resource: ./img/SNAP_graphbuilder2.png
+about_resource: ./img/SNAP_plugins.png
 about_resource: ./img/WEkEO_show_api.png
 about_resource: ./img/thumbs/1_1a_OLCI_data_access_Data_Store_thumb.png
 about_resource: ./img/thumbs/1_1b_OLCI_data_access_HDA_thumb.png
@@ -31,6 +39,9 @@ about_resource: ./img/thumbs/1_5_OLCI_radiance_reflectance_spectra_thumb.png
 about_resource: ./img/thumbs/1_6_OLCI_CHL_comparison_thumb.png
 about_resource: ./img/thumbs/1_7_OLCI_light_environment_thumb.png
 about_resource: ./img/thumbs/2_1_OLCI_advanced_data_access_eumdac_thumb.png
+about_resource: ./img/thumbs/2_2_acquire_OLCI_time_series_thumb.png
+about_resource: ./img/thumbs/2_3_OLCI_SNAP_batch_processing_C2RCC_thumb.png
+about_resource: ./img/thumbs/2_4_OLCI_ope_rep_time_series_thumb.png
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt
