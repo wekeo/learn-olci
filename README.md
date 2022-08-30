@@ -34,7 +34,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 
 |item|version|licence|package info|
 |---|---|---|---|
-|python|3.8.13|PSF|https://docs.python.org/3/license.html|
+|python|3.9.13|PSF|https://docs.python.org/3/license.html|
 |xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
 |netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
 |shapely|1.8.0|BSD-3|https://anaconda.org/conda-forge/shapely|
