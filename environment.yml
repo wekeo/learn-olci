@@ -16,7 +16,6 @@ dependencies:
   - conda-forge::jupyter_contrib_nbextensions
   - conda-forge::ipywidgets
   - conda-forge::scikit-image
-  - conda-forge::plotly
   - conda-forge::bokeh
   - conda-forge::ipykernel
   - conda-forge::cmocean
