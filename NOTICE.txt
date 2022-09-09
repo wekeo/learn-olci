@@ -253,7 +253,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ************************************************************
 
-jupyter-notebook-6.4.8 [Dependency for the full package] (BSD-3-Clause)
+jupyter-notebook-6.4.12 [Dependency for the full package] (BSD-3-Clause)
 
 https://github.com/jupyter/notebook
 
@@ -523,7 +523,7 @@ limitations under the License.
 
 ************************************************************
 
-python 3.8.13 [Dependency for the full package] (PSF-3.8.13)
+python 3.9.13 [Dependency for the full package] (PSF-3.8.13)
 
 https://docs.python.org/3/license.html
 

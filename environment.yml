@@ -7,7 +7,7 @@ channels:
   - eumetsat
 dependencies:
   - conda-forge::python=3.9
-  - conda-forge::notebook=6.4.11
+  - conda-forge::notebook=6.4.12
   - conda-forge::xarray
   - conda-forge::netcdf4
   - conda-forge::shapely
