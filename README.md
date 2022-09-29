@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-olci/HEAD?urlpath=%2Ftree%2FIndex.ipynb)
 
-![Python](https://img.shields.io/badge/python-3.9-blue)()[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
+[![Python](https://img.shields.io/badge/python-3.9-blue)]() [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 
 The **learn-olci** module consists of a collection of python-based Jupyter-notebooks 
 design to demonstrate the capability of the Ocean and Land Colour Instrument (OLCI), 
