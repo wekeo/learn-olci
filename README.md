@@ -2,7 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-olci/HEAD?urlpath=%2Ftree%2FIndex.ipynb)
 
-![Python](https://img.shields.io/badge/python-3.9-blue.svg) ![Anaconda](https://anaconda.org/anaconda/anaconda/badges/version.svg)
+[![Python](https://img.shields.io/badge/python-3.9-blue.svg)]
+[![Anaconda-Server Badge](https://anaconda.org/anaconda/anaconda/badges/version.svg)](https://anaconda.org/anaconda/anaconda)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 The **learn-olci** module consists of a collection of python-based Jupyter-notebooks 
