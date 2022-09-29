@@ -4,7 +4,7 @@
 <hr>
 [![Python](https://img.shields.io/badge/python-anaconda-blue)](https://www.anaconda.com/products/distribution)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
-<hr>
+
 The **learn-olci** module consists of a collection of python-based Jupyter-notebooks 
 design to demonstrate the capability of the Ocean and Land Colour Instrument (OLCI), 
 carried by the Sentinel-3 satellites, and to help users begin to work with its data 
