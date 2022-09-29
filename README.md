@@ -2,6 +2,20 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-olci/HEAD?urlpath=%2Ftree%2FIndex.ipynb)
 
+<html>
+  <div style="width:100%">
+    <div style="float:left"><a href="https://trainhub.eumetsat.int/ocean/sensors/1_1_OLCI_data_access.ipynb"><img src="https://img.shields.io/badge/Launch-TrainHub-Blue.svg" alt="Open in TrainHub"></a></div>
+    <div style="float:left"><p>&emsp;</p></div>
+    <div style="float:left"><a href="https://mybinder.org/v2/gl/eumetlab%2Focean%2Fsensors%2Flearn-olci/main?labpath=1_OLCI_introductory/1_1_OLCI_data_access.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"></a></div>
+    <div style="float:left"><p>&emsp;</p></div>
+    <div style="float:left"><a href="https://colab.research.google.com/github/eumetlab/ocean/sensors/learn-olci/blob/main/1_OLCI_introductory/1_1_OLCI_data_access.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></div>
+    <div style="float:left"><p>&emsp;</p></div>
+    <div style="float:left"><a href="https://studiolab.sagemaker.aws/import/github/eumetlab/ocean/sensors/learn-olci/blob/main/1_OLCI_introductory/1_1_OLCI_data_access.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"/></a></div>
+    <div style="float:left"><p>&emsp;</p></div>
+    <div style="float:left"><a href="https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/git-pull?repo=https://github.com/eumetlab/ocean/sensors/learn-olci&urlpath=1_OLCI_introductory/1_1_OLCI_data_access.ipynb&branch=main"><img src="https://img.shields.io/badge/Open-Planetary%20Computer-black?style=flat&logo=microsoft" alt="Open in Planetary Computer"/></a></div>
+  </div>
+</html>
+
 The **learn-olci** module consists of a collection of python-based Jupyter-notebooks 
 design to demonstrate the capability of the Ocean and Land Colour Instrument (OLCI), 
 carried by the Sentinel-3 satellites, and to help users begin to work with its data 
