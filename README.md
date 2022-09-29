@@ -1,5 +1,7 @@
 # Learn OLCI
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-olci/HEAD?urlpath=%2Ftree%2FIndex.ipynb)
+
 The **learn-olci** module consists of a collection of python-based Jupyter-notebooks 
 design to demonstrate the capability of the Ocean and Land Colour Instrument (OLCI), 
 carried by the Sentinel-3 satellites, and to help users begin to work with its data 
