@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-olci/HEAD?urlpath=%2Ftree%2FIndex.ipynb)
 
+[![WEkEO](https://img.shields.io/badge/launch-WEKEO-1a4696.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAMCAMAAACKnBfWAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABwlBMVEUAYbdepNtBc7VCdLhNhMQkXKpsn9RWltFZl9VlpNI3aK9fpNtMd7ZznM8pg8o4WJc2TZFHY6MmQYptiLxnqt5hptxfpNtfpNtfpNtgpdtip9x2uullqN1fpNtdo9pepdtanNQ9a65Bc7dCeb5nqt5fpNslUpssW6RMgcBTjstWldJhptxdo9phoNdkpdtfpNtoqNxepNplo9hepNthnNNfpdtelM1hptxSgL5dj8hoqt5fpNsjRYgjPog8WqBHa61TfLplqN1fpdtfpdxam9IyTIw2TZFGYaBoqt5hptxfpdtepNpfpNtgpdtjp9x5vu5do9pHgb5co9pepNtHgbwWN4AVP5AhU6JLgL9dl89epNphpttgpdtipttnqd1ho9glSIkWM3snSokeTJdHda9cksphndRmqNyTweaWxOePv+WfyemAs91QYphFUmpuclhKYHRwh5V8pNNdls6iyuq72fCNvuWIueCIlbtTW2hwcFNTY2lmfpSBpNJZj8lsq91xr99nqdx4suBrqds7V5AlNm85S20lRIJVcZxZgr1Uh8NcotpbotpdpNtGfrcTKnAOKXsYOYo4XKRJcbNHfbf////t/CgnAAAAUHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAByF2PfyxGAJLcH+9pQvJgsav/7s57hBf/3gQdO69vH18dK4fN0+GLz96uSzPCq99JArIgkagNTz7r9bB4DtcFsAAAABYktHRJUIYHqDAAAAB3RJTUUH5wIKESIRAg6dCwAAALtJREFUCNdjYGAUERUTl5CUkmZiZmFlY2CUkZULAAJ5BUUlZXYOBhXVADAIVFPX0NTiZNDWAXKCgkNCw8IjInX1GPSjomNi4+ITEpOSU1LTDBgM0zMys7JzcvPyCwqLio0YjKNKSstKyisqq6prautMGEwD6hsam5pbWtvaOzq7zBjMdbq7g3p6+/onTJw02cKSwcoaYt8UG1s7ewcuBm5HJ7B7nF1c3dx5eBn4uD08vbx9fP38+QUEhYQB5Z40RP8+e1wAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDItMTBUMTc6MzM6NDUrMDA6MDCCLR1xAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAyLTEwVDE3OjI2OjU5KzAwOjAw393bowAAAABJRU5ErkJggg==)](https://jupyterhub-wekeo.apps.eumetsat.dpi.wekeo.eu/hub/user-redirect/lab/tree/public/wekeo4oceans/learn-olci/Index.ipynb)
+  
 <hr>
 
 [![Python](https://img.shields.io/badge/python-anaconda-blue)](https://www.anaconda.com/products/distribution)
@@ -18,7 +20,7 @@ For any questions about this repository, please contact ops@eumetsat.int.
  
 This code is licensed under an MIT license. See file LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of this 
-package. Copyright EUMETSAT 2022.
+package. Copyright EUMETSAT 2023.
 
 All product names, logos, and brands are property of their respective owners. 
 All company, product and service names used in this website are for identification 
@@ -53,7 +55,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
 |plotly|5.6.0|MIT|https://anaconda.org/conda-forge/plotly|
 |bokeh|2.4.2|BSD-3|https://anaconda.org/conda-forge/bokeh|
-|hda|0.2.2|Apache-2.0|https://pypi.org/project/hda/|
+|hda|0.3.7|Apache-2.0|https://pypi.org/project/hda/|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|

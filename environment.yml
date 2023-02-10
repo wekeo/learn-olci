@@ -1,4 +1,4 @@
-# copyright: 2022 EUMETSAT
+# copyright: 2023 EUMETSAT
 # license: LICENSE.txt
 name: cmts_learn_olci
 channels:
@@ -19,6 +19,6 @@ dependencies:
   - conda-forge::bokeh
   - conda-forge::ipykernel
   - conda-forge::cmocean
-  - cmts::hda
+  - cmts::hda=0.3.7
   - cmts::eumartools
   - eumetsat::eumdac

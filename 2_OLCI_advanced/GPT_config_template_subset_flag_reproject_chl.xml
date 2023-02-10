@@ -1,0 +1,147 @@
+<graph id="Graph">
+  <version>1.0</version>
+
+  <node id="Read">
+    <operator>Read</operator>
+    <sources/>
+    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
+      <useAdvancedOptions>false</useAdvancedOptions>
+      <file>SOURCE_PRODUCT</file>
+      <copyMetadata>true</copyMetadata>
+    </parameters>
+  </node>
+
+  <node id="Subset">
+    <operator>Subset</operator>
+    <sources>
+      <sourceProduct refid="Read"/>
+    </sources>
+    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
+      <sourceBands>CHL_NN,CHL_OC4ME,latitude,longitude,WQSF_lsb,WQSF_msb</sourceBands>
+      <tiePointGrids/>
+      <region>0,0,0,0</region>
+      <referenceBand/>
+      <geoRegion>GEO_REGION</geoRegion>
+      <subSamplingX>1</subSamplingX>
+      <subSamplingY>1</subSamplingY>
+      <fullSwath>false</fullSwath>
+      <copyMetadata>false</copyMetadata>
+    </parameters>
+  </node>
+
+  <node id="BandMathsNN">
+    <operator>BandMaths</operator>
+    <sources>
+      <sourceProduct refid="Subset"/>
+    </sources>
+    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
+      <targetBands>
+        <targetBand>
+          <name>Filtered_CHL_NN</name>
+          <type>float32</type>
+          <expression>if WQSF_lsb_LAND or WQSF_lsb_CLOUD or WQSF_lsb_CLOUD_AMBIGUOUS or WQSF_lsb_CLOUD_MARGIN or WQSF_lsb_INVALID or WQSF_lsb_COSMETIC or WQSF_lsb_SATURATED or WQSF_lsb_SUSPECT or WQSF_lsb_HISOLZEN or WQSF_lsb_HIGHGLINT or WQSF_lsb_SNOW_ICE or WQSF_lsb_OCNN_FAIL then NaN else CHL_NN</expression>
+          <description/>
+          <unit/>
+          <noDataValue>0.0</noDataValue>
+        </targetBand>
+      </targetBands>
+      <variables/>
+    </parameters>
+  </node>
+
+  <node id="BandMathsOC4ME">
+    <operator>BandMaths</operator>
+    <sources>
+      <sourceProduct refid="Subset"/>
+    </sources>
+    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
+      <targetBands>
+        <targetBand>
+          <name>Filtered_CHL_OC4ME</name>
+          <type>float32</type>
+          <expression>if WQSF_lsb_LAND or WQSF_lsb_CLOUD or WQSF_lsb_CLOUD_AMBIGUOUS or WQSF_lsb_CLOUD_MARGIN or WQSF_lsb_INVALID or WQSF_lsb_COSMETIC or WQSF_lsb_SATURATED or WQSF_lsb_SUSPECT or WQSF_lsb_HISOLZEN or WQSF_lsb_HIGHGLINT or WQSF_lsb_SNOW_ICE or WQSF_lsb_AC_FAIL or WQSF_lsb_WHITECAPS or WQSF_lsb_ADJAC or WQSF_msb_RWNEG_O2 or WQSF_msb_RWNEG_O3 or WQSF_msb_RWNEG_O4 or WQSF_msb_RWNEG_O5 or WQSF_msb_RWNEG_O6 or WQSF_msb_RWNEG_O7 or WQSF_msb_RWNEG_O8 or WQSF_lsb_OC4ME_FAIL then NaN else CHL_OC4ME</expression>
+          <description/>
+          <unit/>
+          <noDataValue>0.0</noDataValue>
+        </targetBand>
+      </targetBands>
+      <variables/>
+    </parameters>
+  </node>
+
+  <node id="BandMerge">
+    <operator>BandMerge</operator>
+    <sources>
+      <sourceProduct refid="BandMathsOC4ME"/>
+      <sourceProduct.1 refid="BandMathsNN"/>
+    </sources>
+    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
+      <sourceBands/>
+      <geographicError>1.0E-5</geographicError>
+    </parameters>
+  </node>
+
+  <node id="Reproject">
+    <operator>Reproject</operator>
+    <sources>
+      <sourceProduct refid="BandMerge"/>
+    </sources>
+    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
+      <wktFile/>
+      <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+      <resampling>Nearest</resampling>
+      <referencePixelX/>
+      <referencePixelY/>
+      <easting/>
+      <northing/>
+      <orientation/>
+      <pixelSizeX/>
+      <pixelSizeY/>
+      <width/>
+      <height/>
+      <tileSizeX/>
+      <tileSizeY/>
+      <orthorectify>false</orthorectify>
+      <elevationModelName/>
+      <noDataValue>NaN</noDataValue>
+      <includeTiePointGrids>true</includeTiePointGrids>
+      <addDeltaBands>false</addDeltaBands>
+    </parameters>
+  </node>
+
+  <node id="Write">
+    <operator>Write</operator>
+    <sources>
+      <sourceProduct refid="Reproject"/>
+    </sources>
+    <parameters class="com.bc.ceres.binding.dom.XppDomElement">
+      <file>OUTPUT_PRODUCT</file>
+      <formatName>NetCDF4-BEAM</formatName>
+    </parameters>
+  </node>
+
+  <applicationData id="Presentation">
+    <Description/>
+    <node id="Read">
+            <displayPosition x="37.0" y="134.0"/>
+    </node>
+    <node id="Subset">
+      <displayPosition x="150.0" y="103.0"/>
+    </node>
+    <node id="BandMaths">
+      <displayPosition x="251.0" y="204.0"/>
+    </node>
+    <node id="Reproject">
+      <displayPosition x="343.0" y="117.0"/>
+    </node>
+    <node id="Write">
+            <displayPosition x="455.0" y="135.0"/>
+    </node>
+  </applicationData>
+</graph>

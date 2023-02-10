@@ -1,5 +1,5 @@
 # Copyright holder
-copyright: 2022 EUMETSAT
+copyright: 2023 EUMETSAT
 license: LICENSE.txt
 
 # List of development authors
