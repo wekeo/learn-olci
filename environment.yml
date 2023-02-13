@@ -19,6 +19,6 @@ dependencies:
   - conda-forge::bokeh
   - conda-forge::ipykernel
   - conda-forge::cmocean
-  - cmts::hda=1.03
+  - cmts::hda=1.1
   - cmts::eumartools
   - eumetsat::eumdac
