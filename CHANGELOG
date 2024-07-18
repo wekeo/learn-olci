@@ -1,0 +1,11 @@
+v2.0.0: 18.07.2024
+
+- Python dependency updates
+- SNAP 10 updates
+- adopted of v2.0.0 metadata schema
+- minor code updates and tidying
+- improved badging and connectivity to EUMETSAT User Portal
+
+v1.0: 06.07.2023
+
+- first release!

@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large data
+*.nc
+*.zip
+
+# OSx junk
+*DS_Store*
+
+# Repo specific
+1_OLCI_introductory/products/
+1_OLCI_introductory/*.png
+2_OLCI_advanced/products/
+2_OLCI_advanced/*.png
+2_OLCI_advanced/outputs
+**ThoMaS**
+**WCO_L4**
+**Venice**
+**MOBY**

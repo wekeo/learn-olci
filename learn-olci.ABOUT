@@ -1,0 +1,66 @@
+# Component information
+name: learn-olci
+description: Compendium of training content associated with the Copernicus Sentinel-3 OLCI sensor in the marine domain.
+copyright: 2024 EUMETSAT
+license_spdx: MIT
+date: 01.03.2024
+home_url: https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci
+ 
+# Package IPR documentation
+license_text_file: LICENSE.txt
+ 
+# File(s) associated to this component
+
+about_resource: ./1_OLCI_introductory/1_1a_OLCI_data_access_Data_Store.ipynb
+about_resource: ./1_OLCI_introductory/1_1b_OLCI_data_access_HDA.ipynb
+about_resource: ./1_OLCI_introductory/1_2_OLCI_file_structure.ipynb
+about_resource: ./1_OLCI_introductory/1_3_OLCI_coverage.ipynb
+about_resource: ./1_OLCI_introductory/1_4_OLCI_bands_imagery.ipynb
+about_resource: ./1_OLCI_introductory/1_5_OLCI_radiance_reflectance_spectra.ipynb
+about_resource: ./1_OLCI_introductory/1_6_OLCI_CHL_comparison.ipynb
+about_resource: ./1_OLCI_introductory/1_7_OLCI_light_environment.ipynb
+about_resource: ./2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
+about_resource: ./2_OLCI_advanced/2_2a_acquire_OLCI_time_series.ipynb
+about_resource: ./2_OLCI_advanced/2_2b_OLCI_ope_rep_time_series.ipynb
+about_resource: ./2_OLCI_advanced/2_3a_OLCI_SNAP_batch_processing_subset_reproj_flag_CHL.ipynb
+about_resource: ./2_OLCI_advanced/2_3b_OLCI_SNAP_batch_processing_C2RCC.ipynb
+about_resource: ./2_OLCI_advanced/2_4_OLCI_matchup_validation.ipynb
+about_resource: ./2_OLCI_advanced/GPT_config_template_subset_flag_reproject_chl.xml
+about_resource: ./2_OLCI_advanced/GPT_config_template_subset_idepix_c2rcc.xml
+about_resource: ./2_OLCI_advanced/coming_soon.md
+about_resource: ./img/OLCI_spectral_1200.png
+about_resource: ./img/SNAP_graph_XML.png
+about_resource: ./img/SNAP_graphbuilder.png
+about_resource: ./img/SNAP_graphbuilder1.png
+about_resource: ./img/SNAP_graphbuilder2.png
+about_resource: ./img/SNAP_plugins.png
+about_resource: ./img/WEkEO_show_api.png
+about_resource: ./img/thumbs/1_1a_OLCI_data_access_Data_Store_thumb.png
+about_resource: ./img/thumbs/1_1b_OLCI_data_access_HDA_thumb.png
+about_resource: ./img/thumbs/1_2_OLCI_file_structure_thumb.png
+about_resource: ./img/thumbs/1_3_OLCI_coverage_thumb.png
+about_resource: ./img/thumbs/1_4_OLCI_bands_imagery_thumb.png
+about_resource: ./img/thumbs/1_5_OLCI_radiance_reflectance_spectra_thumb.png
+about_resource: ./img/thumbs/1_6_OLCI_CHL_comparison_thumb.png
+about_resource: ./img/thumbs/1_7_OLCI_light_environment_thumb.png
+about_resource: ./img/thumbs/2_1_OLCI_advanced_data_access_eumdac_thumb.png
+about_resource: ./img/thumbs/2_2a_acquire_OLCI_time_series_thumb.png
+about_resource: ./img/thumbs/2_2b_OLCI_ope_rep_time_series_thumb.png
+about_resource: ./img/thumbs/2_3a_OLCI_SNAP_batch_processing_subset_reproj_flag_CHL_thumb.png
+about_resource: ./img/thumbs/2_3b_OLCI_SNAP_batch_processing_C2RCC_thumb.png
+about_resource: ./img/thumbs/2_4_OLCI_matchup_validation_thumb.png
+about_resource: CHANGELOG
+about_resource: CONTRIBUTING.txt
+about_resource: AUTHORS.txt
+about_resource: Index.ipynb
+about_resource: LICENSE.txt
+about_resource: README.md
+about_resource: environment.yml
+about_resource: learn-olci.ABOUT
+
+# Notes:
+
+The images contained in the ./img/thumbs folder are generated using the 
+matplotlib tool. The matplotlib tool does not extend its license/copyright to 
+figures produced by the package. The figures are covered by the package IPR
+documentation as specified in the license text file.
