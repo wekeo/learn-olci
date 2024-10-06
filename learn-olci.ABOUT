@@ -25,6 +25,7 @@ about_resource: ./2_OLCI_advanced/2_2b_OLCI_ope_rep_time_series.ipynb
 about_resource: ./2_OLCI_advanced/2_3a_OLCI_SNAP_batch_processing_subset_reproj_flag_CHL.ipynb
 about_resource: ./2_OLCI_advanced/2_3b_OLCI_SNAP_batch_processing_C2RCC.ipynb
 about_resource: ./2_OLCI_advanced/2_4_OLCI_matchup_validation.ipynb
+about_resource: ./2_OLCI_advanced/2_5_multisensor_matchup_validation.ipynb
 about_resource: ./2_OLCI_advanced/GPT_config_template_subset_flag_reproject_chl.xml
 about_resource: ./2_OLCI_advanced/GPT_config_template_subset_idepix_c2rcc.xml
 about_resource: ./2_OLCI_advanced/coming_soon.md
@@ -49,6 +50,7 @@ about_resource: ./img/thumbs/2_2b_OLCI_ope_rep_time_series_thumb.png
 about_resource: ./img/thumbs/2_3a_OLCI_SNAP_batch_processing_subset_reproj_flag_CHL_thumb.png
 about_resource: ./img/thumbs/2_3b_OLCI_SNAP_batch_processing_C2RCC_thumb.png
 about_resource: ./img/thumbs/2_4_OLCI_matchup_validation_thumb.png
+about_resource: ./img/thumbs/2_5_multisensor_matchup_validation_thumb.png
 about_resource: CHANGELOG
 about_resource: CONTRIBUTING.txt
 about_resource: AUTHORS.txt
