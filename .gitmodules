@@ -1,0 +1,6 @@
+[submodule "frameworks"]
+	path = frameworks
+	url = https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/tools/frameworks.git
+[submodule "working-with-python"]
+	path = working-with-python
+	url = https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/tools/working-with-python.git
