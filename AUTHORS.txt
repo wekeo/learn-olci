@@ -1,5 +1,5 @@
 # Copyright holder
-copyright: 2024 EUMETSAT
+copyright: 2024 European Union
 license: LICENSE.txt
 
 # List of development authors

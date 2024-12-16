@@ -1,7 +1,7 @@
 # Component information
 name: learn-olci
 description: Compendium of training content associated with the Copernicus Sentinel-3 OLCI sensor in the marine domain.
-copyright: 2024 EUMETSAT
+copyright: 2024 European Union
 license_spdx: MIT
 date: 01.03.2024
 home_url: https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci
