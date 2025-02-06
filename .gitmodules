@@ -1,0 +1,6 @@
+[submodule "frameworks"]
+	path = frameworks
+	url = https://github.com/wekeo/frameworks.git
+[submodule "working-with-python"]
+	path = working-with-python
+	url = https://github.com/wekeo/working-with-python.git
