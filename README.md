@@ -69,7 +69,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |scipy|1.13.0|BSD-3|https://anaconda.org/conda-forge/scipy|
 |xarray|2024.6.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
-|eumdac|2.2.2|MIT|https://anaconda.org/eumetsat/eumdac|
+|eumdac|3.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
 |scikit-image|0.22.0|BSD-3|https://anaconda.org/conda-forge/scikit-image|
 |shapely|2.0.3|BSD-3|https://anaconda.org/conda-forge/shapely|
 |beautifulsoup4|4.12.3|MIT|https://anaconda.org/conda-forge/beautifulsoup4|
@@ -77,6 +77,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |ephem|4.1.5|LGPL|https://anaconda.org/conda-forge/ephem|
 |pandas|2.2.1|BSD-3|https://anaconda.org/conda-forge/pandas|
 |urllib3|2.2.1|MIT|https://anaconda.org/conda-forge/urllib3/|
+|earthaccess|0.12.0|MIT|https://anaconda.org/conda-forge/earthaccess/|
 
 ## Included components
 
