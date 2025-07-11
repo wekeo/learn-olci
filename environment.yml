@@ -21,7 +21,7 @@ dependencies:
   - conda-forge::scipy
   - conda-forge::xarray
   # External
-  - cmts::eumartools=0.0.2
+  - cmts::eumartools=0.0.1
   - eumetsat::eumdac
   # Extension
   - conda-forge::scikit-image
