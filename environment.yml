@@ -20,8 +20,11 @@ dependencies:
   - conda-forge::python=3.10
   - conda-forge::scipy
   - conda-forge::xarray
+  - conda-forge::pip
+  - pip:
+    - destinelab
   # External
-  - cmts::eumartools=0.0.1
+  - cmts::eumartools=0.0.2
   - eumetsat::eumdac
   # Extension
   - conda-forge::scikit-image
