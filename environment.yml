@@ -20,6 +20,7 @@ dependencies:
   - conda-forge::python=3.10
   - conda-forge::scipy
   - conda-forge::xarray
+  - conda-forge::dask-labextension
   - conda-forge::pip
   - pip:
     - destinelab
