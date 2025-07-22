@@ -59,28 +59,29 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |cartopy|0.23.0|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
 |cmocean|4.0.3|MIT|https://anaconda.org/conda-forge/cmocean|
 |dask|2024.6.0|BSD-3|https://anaconda.org/conda-forge/dask|
-|distributed|2024.6.0|BSD-3|https://anaconda.org/conda-forge/distributed/| 
+|dask-labextension|7.0.0|BSD-3|https://anaconda.org/conda-forge/dask-labextension| 
+|distributed|2024.6.0|BSD-3|https://anaconda.org/conda-forge/distributed/|
 |hda|2.16|Apache-2.0|https://pypi.org/project/hda|
 |ipywidgets|8.1.3|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |jupyterlab|4.2.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
 |matplotlib|3.8.4|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |netcdf4|1.7.1|MIT|https://anaconda.org/conda-forge/netcdf4|
+|pip|25.1.1|MIT|https://anaconda.org/conda-forge/pip|
+|plotly-express|0.4.1|MIT|https://anaconda.org/conda-forge/plotly_express|
 |python|3.10.14|PSF|https://docs.python.org/3/license.html|
+|scikit-image|0.22.0|BSD-3|https://anaconda.org/conda-forge/scikit-image|
 |scipy|1.13.0|BSD-3|https://anaconda.org/conda-forge/scipy|
+|shapely|2.0.3|BSD-3|https://anaconda.org/conda-forge/shapely|
 |xarray|2024.6.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
+|destinelab|1.13|MIT|https://pypi.org/project/destinelab/|
 |eumartools|0.0.2|MIT|https://anaconda.org/cmts/eumartools|
 |eumdac|3.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
-|scikit-image|0.22.0|BSD-3|https://anaconda.org/conda-forge/scikit-image|
-|shapely|2.0.3|BSD-3|https://anaconda.org/conda-forge/shapely|
 |beautifulsoup4|4.12.3|MIT|https://anaconda.org/conda-forge/beautifulsoup4|
 |cdsapi|0.6.1|Apache-2.0|https://anaconda.org/conda-forge/cdsapi|
+|earthaccess|0.12.0|MIT|https://anaconda.org/conda-forge/earthaccess/|
 |ephem|4.1.5|LGPL|https://anaconda.org/conda-forge/ephem|
 |pandas|2.2.1|BSD-3|https://anaconda.org/conda-forge/pandas|
 |urllib3|2.2.1|MIT|https://anaconda.org/conda-forge/urllib3/|
-|earthaccess|0.12.0|MIT|https://anaconda.org/conda-forge/earthaccess/|
-|pip|25.1.1|MIT|https://anaconda.org/conda-forge/pip|
-|destinelab|1.13|MIT|https://pypi.org/project/destinelab/|
-|dask-labextension|7.0.0|BSD-3|https://anaconda.org/conda-forge/dask-labextension|
 
 ## Included components
 

@@ -11,29 +11,29 @@ dependencies:
   - conda-forge::cartopy
   - conda-forge::cmocean
   - conda-forge::dask
+  - conda-forge::dask-labextension
   - conda-forge::distributed
   - conda-forge::hda
   - conda-forge::ipywidgets
   - conda-forge::jupyterlab
   - conda-forge::matplotlib
   - conda-forge::netcdf4
-  - conda-forge::python=3.10
-  - conda-forge::scipy
-  - conda-forge::xarray
-  - conda-forge::dask-labextension
   - conda-forge::pip
+  - conda-forge::plotly-express
+  - conda-forge::python=3.10
+  - conda-forge::scikit-image
+  - conda-forge::scipy
+  - conda-forge::shapely
+  - conda-forge::xarray
   - pip:
     - destinelab
   # External
   - cmts::eumartools=0.0.2
   - eumetsat::eumdac
-  # Extension
-  - conda-forge::scikit-image
-  - conda-forge::shapely
   # Extension: ThoMaS support
   - conda-forge::beautifulsoup4
   - conda-forge::cdsapi
+  - conda-forge::earthaccess
   - conda-forge::ephem
   - conda-forge::pandas
   - conda-forge::urllib3
-  - conda-forge::earthaccess

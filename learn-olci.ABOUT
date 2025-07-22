@@ -19,8 +19,10 @@ about_resource: ./1_OLCI_introductory/1_3_OLCI_coverage.ipynb
 about_resource: ./1_OLCI_introductory/1_4_OLCI_bands_imagery.ipynb
 about_resource: ./1_OLCI_introductory/1_5_OLCI_radiance_reflectance_spectra.ipynb
 about_resource: ./1_OLCI_introductory/1_6_OLCI_CHL_comparison.ipynb
-about_resource: ./1_OLCI_introductory/1_7_OLCI_light_environment.ipynb
+about_resource: ./1_OLCI_introductory/1_7_OLCI_optical_constituents.ipynb
 about_resource: ./1_OLCI_introductory/1_8_OLCI_iops.ipynb
+about_resource: ./1_OLCI_introductory/1_9_OLCI_light_environment.ipynb
+about_resource: ./1_OLCI_advanced/coming_soon.md
 about_resource: ./2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
 about_resource: ./2_OLCI_advanced/2_2a_acquire_OLCI_time_series.ipynb
 about_resource: ./2_OLCI_advanced/2_2b_OLCI_ope_rep_time_series.ipynb
