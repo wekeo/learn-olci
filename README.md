@@ -67,7 +67,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |matplotlib|3.8.4|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |netcdf4|1.7.1|MIT|https://anaconda.org/conda-forge/netcdf4|
 |pip|25.1.1|MIT|https://anaconda.org/conda-forge/pip|
-|plotly-express|0.4.1|MIT|https://anaconda.org/conda-forge/plotly_express|
+|plotly_express|0.4.1|MIT|https://anaconda.org/conda-forge/plotly_express|
 |python|3.10.14|PSF|https://docs.python.org/3/license.html|
 |scikit-image|0.22.0|BSD-3|https://anaconda.org/conda-forge/scikit-image|
 |scipy|1.13.0|BSD-3|https://anaconda.org/conda-forge/scipy|

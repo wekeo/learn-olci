@@ -19,7 +19,7 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::netcdf4
   - conda-forge::pip
-  - conda-forge::plotly-express
+  - conda-forge::plotly_express
   - conda-forge::python=3.10
   - conda-forge::scikit-image
   - conda-forge::scipy
