@@ -8,9 +8,8 @@
 [![USER PORTAL](https://img.shields.io/badge/open-USER%20PORTAL-154360.svg)](https://user.eumetsat.int/data/themes/marine)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-olci/HEAD?labpath=Index.ipynb)
 [![WEkEO](https://img.shields.io/badge/launch-WEKEO-1a4696.svg)](https://jupyterhub.prod.wekeo2.eu/hub/user-redirect/lab/tree/public/wekeo4oceans/learn-olci/Index.ipynb)
-[![DestinE](https://img.shields.io/badge/launch-DestinE-f43fd3.svg)](https://code.insula.destine.eu/hub/)
-
-<hr>
+[![DEDL STACK](https://img.shields.io/badge/launch-DEDL_Stack-2596be.svg)](https://jupyter.central.data.destination-earth.eu/)
+[![DestinE_Insula_Code](https://img.shields.io/badge/launch-DestinE_Insula_Code-f43fd3.svg)](https://code.insula.destine.eu/)
 
 ## Overview
 
@@ -187,10 +186,10 @@ Now you can run the notebooks! We recommend you start with the [Index](./Index.i
 
 ### Running on cloud platforms
 
-If you are running on a remote Jupyter Hub (e.g. WEkEO or Insula) you will need to perform some additional steps to 
-ensure that you have the right python environment loaded in your notebook. When running locally, as long you have activated 
-the correct environment, Jupyter will load it into your the "kernel" which runs your code by default. On cloud systems, we 
-have to add the kernel to the system and apply it manually when we run.
+If you are running on a remote Jupyter Hub (e.g. WEkEO or the Destination Earth Data Lake or Service Platforms) you will need 
+to perform some additional steps to ensure that you have the right python environment loaded in your notebook. When running 
+locally, as long you have activated the correct environment, Jupyter will load it into your the "kernel" which runs your code 
+by default. On cloud systems, we have to add the kernel to the system and apply it manually when we run.
 
 To add an environment to a kernel you should first build the environment and activate it as described above. Once you have 
 done this, you can add your environment to a kernel from the command line as follows:
