@@ -1,0 +1,10 @@
+[submodule "frameworks"]
+	path = frameworks
+	url = https://github.com/wekeo/frameworks.git
+	shallow = true
+	branch = main
+[submodule "working-with-python"]
+	path = working-with-python
+	url = https://github.com/wekeo/working-with-python.git
+	shallow = true
+	branch = main
