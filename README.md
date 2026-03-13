@@ -8,8 +8,8 @@
 [![USER PORTAL](https://img.shields.io/badge/open-USER%20PORTAL-154360.svg)](https://user.eumetsat.int/data/themes/marine)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-olci/HEAD?labpath=Index.ipynb)
 [![WEkEO](https://img.shields.io/badge/launch-WEKEO-1a4696.svg)](https://jupyterhub.prod.wekeo2.eu/hub/user-redirect/lab/tree/public/wekeo4oceans/learn-olci/Index.ipynb)
-[![DEDL STACK](https://img.shields.io/badge/launch-DEDL_Stack-2596be.svg)](https://jupyter.central.data.destination-earth.eu/)
-[![DestinE_Insula_Code](https://img.shields.io/badge/launch-DestinE_Insula_Code-f43fd3.svg)](https://code.insula.destine.eu/)
+[![Stack](https://img.shields.io/badge/launch-Stack-2596be.svg)](https://jupyter.central.data.destination-earth.eu/)
+[![Insula](https://img.shields.io/badge/launch-DestinE_Insula_Code-f43fd3.svg)](https://code.insula.destine.eu/)
 
 ## Overview
 
@@ -31,7 +31,7 @@ This software and all associated intellectual property rights (IPRs) are owned b
 
 This code is licensed under an MIT license. See file LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of this 
-package. Copyright 2025 European Union.
+package. Copyright 2026 European Union.
 
 All product names, logos, and brands are property of their respective owners. 
 All company, product and service names used in this website are for identification 

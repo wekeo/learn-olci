@@ -1,4 +1,4 @@
-# copyright: 2024 European Union
+# copyright: 2026 European Union
 # license: LICENSE.txt
 name: cmts_learn_olci
 channels:
@@ -7,7 +7,7 @@ channels:
   - eumetsat
 dependencies:
   # Core
-  - conda-forge::bokeh=3.2.1
+  - conda-forge::bokeh
   - conda-forge::cartopy
   - conda-forge::cmocean
   - conda-forge::dask
@@ -19,8 +19,7 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::netcdf4
   - conda-forge::pip
-  - conda-forge::plotly_express
-  - conda-forge::python=3.10
+  - conda-forge::python=3.13
   - conda-forge::scikit-image
   - conda-forge::scipy
   - conda-forge::shapely
@@ -28,8 +27,10 @@ dependencies:
   - pip:
     - destinelab
   # External
-  - cmts::eumartools=0.0.2
+  - cmts::eumartools
   - eumetsat::eumdac
+  # Extension
+  - conda-forge::copernicusmarine
   # Extension: ThoMaS support
   - conda-forge::beautifulsoup4
   - conda-forge::cdsapi

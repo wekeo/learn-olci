@@ -1,12 +1,13 @@
 # Copyright holder
-copyright: 2024 European Union
+copyright: 2026 European Union
 license: LICENSE.txt
 
 # List of development authors
 Ben Loveday (Innoflair UG / EUMETSAT)
+Joana Brito (Innoflair UG / EUMETSAT)
 Hayley Evers-King (EUMETSAT)
-Ana Ruescas (Brockmann Consult)
 Juan Ignacio-Gossn (EUMETSAT)
+Ana Ruescas (Brockmann Consult)
 
 # List of contributory authors
 Aida Alvera-Azcarate (GHER)

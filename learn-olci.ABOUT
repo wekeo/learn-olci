@@ -1,9 +1,9 @@
 # Component information
 name: learn-olci
 description: Compendium of training content associated with the Copernicus Sentinel-3 OLCI sensor in the marine domain.
-copyright: 2024 European Union
+copyright: 2026 European Union
 license_spdx: MIT
-date: 01.03.2024
+date: 03.03.2026
 home_url: https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci
  
 # Package IPR documentation
@@ -18,10 +18,13 @@ about_resource: ./1_OLCI_introductory/1_2_OLCI_file_structure.ipynb
 about_resource: ./1_OLCI_introductory/1_3_OLCI_coverage.ipynb
 about_resource: ./1_OLCI_introductory/1_4_OLCI_bands_imagery.ipynb
 about_resource: ./1_OLCI_introductory/1_5_OLCI_radiance_reflectance_spectra.ipynb
-about_resource: ./1_OLCI_introductory/1_6_OLCI_CHL_comparison.ipynb
+about_resource: ./1_OLCI_introductory/1_6a_OLCI_CHL_comparison_BC003.ipynb
+about_resource: ./1_OLCI_introductory/1_6b_OLCI_CHL_comparison_BC004.ipynb
 about_resource: ./1_OLCI_introductory/1_7_OLCI_optical_constituents.ipynb
-about_resource: ./1_OLCI_introductory/1_8_OLCI_iops.ipynb
-about_resource: ./1_OLCI_introductory/1_9_OLCI_light_environment.ipynb
+about_resource: ./1_OLCI_introductory/1_8_OLCI_fluor.ipynb
+about_resource: ./1_OLCI_introductory/1_9_OLCI_IOPs.ipynb
+about_resource: ./1_OLCI_introductory/1_10_OLCI_light_environment.ipynb
+about_resource: ./1_OLCI_introductory/1_11_OLCI_BRDF.ipynb
 about_resource: ./1_OLCI_advanced/coming_soon.md
 about_resource: ./2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
 about_resource: ./2_OLCI_advanced/2_2a_acquire_OLCI_time_series.ipynb
@@ -47,9 +50,13 @@ about_resource: ./img/thumbs/1_2_OLCI_file_structure_thumb.png
 about_resource: ./img/thumbs/1_3_OLCI_coverage_thumb.png
 about_resource: ./img/thumbs/1_4_OLCI_bands_imagery_thumb.png
 about_resource: ./img/thumbs/1_5_OLCI_radiance_reflectance_spectra_thumb.png
-about_resource: ./img/thumbs/1_6_OLCI_CHL_comparison_thumb.png
-about_resource: ./img/thumbs/1_7_OLCI_light_environment_thumb.png
-about_resource: ./img/thumbs/1_8_OLCI_iops_thumb.png
+about_resource: ./img/thumbs/1_6a_OLCI_CHL_comparison_BC003_thumb.png
+about_resource: ./img/thumbs/1_6b_OLCI_CHL_comparison_BC004_thumb.png
+about_resource: ./img/thumbs/1_7_OLCI_optical_constituents_thumb.png
+about_resource: ./img/thumbs/1_8_OLCI_fluor_thumb.png
+about_resource: ./img/thumbs/1_9_OLCI_IOPs_thumb.png
+about_resource: ./img/thumbs/1_10_OLCI_light_environment_thumb.png
+about_resource: ./img/thumbs/1_11_OLCI_BRDF_thumb.png
 about_resource: ./img/thumbs/2_1_OLCI_advanced_data_access_eumdac_thumb.png
 about_resource: ./img/thumbs/2_2a_acquire_OLCI_time_series_thumb.png
 about_resource: ./img/thumbs/2_2b_OLCI_ope_rep_time_series_thumb.png
