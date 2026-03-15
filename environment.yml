@@ -38,3 +38,4 @@ dependencies:
   - conda-forge::ephem
   - conda-forge::pandas
   - conda-forge::urllib3
+  - conda-forge::statsmodel

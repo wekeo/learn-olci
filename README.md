@@ -81,6 +81,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |ephem|4.1.5|LGPL|https://anaconda.org/conda-forge/ephem|
 |pandas|2.2.1|BSD-3|https://anaconda.org/conda-forge/pandas|
 |urllib3|2.2.1|MIT|https://anaconda.org/conda-forge/urllib3/|
+|statsmodel|0.14.6|BSD-3|https://anaconda.org/conda-forge/statsmodels/|
 
 ## Included components
 
