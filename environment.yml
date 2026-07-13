@@ -36,6 +36,6 @@ dependencies:
   - conda-forge::cdsapi
   - conda-forge::earthaccess
   - conda-forge::ephem
-  - conda-forge::pandas
+  - conda-forge::pandas=2.3.3
   - conda-forge::urllib3
   - conda-forge::statsmodels
